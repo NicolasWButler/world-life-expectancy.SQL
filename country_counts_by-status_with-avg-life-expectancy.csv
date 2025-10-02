@@ -1,0 +1,3 @@
+status,"COUNT(DISTINCT country)","ROUND(AVG(`Life expectancy`),1)"
+Developed,32,79.2
+Developing,161,66.8
